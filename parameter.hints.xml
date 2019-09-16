@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.nhn.android.naverlogin.OAuthLogin.startOauthLoginActivity(activity,oauthLoginHandler)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
