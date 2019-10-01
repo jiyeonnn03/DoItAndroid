@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:oasis:names:tc:xliff:document:1.2" location="$USER_HOME$/Downloads/RealSky (1)/RealSky" />
+    <ignored-resource url="http://schemas.android.com/tools" />
+    <ignored-resource url="urn:oasis:names:tc:xliff:document:1.2" />
+  </component>
+</application>
