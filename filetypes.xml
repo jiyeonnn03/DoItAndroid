@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Main2Activity" type="JAVA" />
+      <mapping pattern="home" type="PLAIN_TEXT" />
       <mapping pattern="style" type="XML" />
       <mapping pattern="menu" type="XML" />
-      <mapping pattern="item_color" type="XML" />
       <mapping pattern="activity_main2" type="XML" />
-      <mapping pattern="value/style" type="XML" />
       <mapping pattern="menu_bottom" type="XML" />
+      <mapping pattern="value/style" type="XML" />
+      <mapping pattern="item_color" type="XML" />
     </extensionMap>
   </component>
 </application>
