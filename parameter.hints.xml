@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="com.nhn.android.naverlogin.OAuthLogin.startOauthLoginActivity(activity,oauthLoginHandler)" />
+        <added pattern="androidx.navigation.ui.NavigationUI.setupActionBarWithNavController(activity,navController,configuration)" />
       </blacklist>
     </blacklists>
   </component>
